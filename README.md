@@ -26,16 +26,16 @@ Para usar o `prompt-sync`, primeiro precisamos instalar o Node.js.
 O prompt-sync permite receber entradas do usuário de forma síncrona no terminal.
 
 1. Crie uma pasta para o seu projeto e entre nela:
-
-mkdir meu-projeto
-cd meu-projeto
+   ```sh
+   mkdir meu-projeto
+   cd meu-projeto
 
 2. Inicialize um projeto Node.js:
-
-npm init -y
+   ```sh
+   npm init -y
 
 3. Instale o prompt-sync:
-
-npm install prompt-sync
+   ```sh
+   npm install prompt-sync
 
 
